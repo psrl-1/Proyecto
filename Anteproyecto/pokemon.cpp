@@ -29,16 +29,6 @@ int main()
     int Mewtwo[5] = {11, 106, 110, 90, 130};
     int Chansey[5] = {12, 250, 5, 5, 50};
 
-
-        // Primera, segunda y terccera desiccion depojemosn
-        cout << "Elige la clase para el pokemon " << i << endl;
-        cout << "Fuego: 1\n";
-        cout << "Planta: 2\n";
-        cout << "Agua: 3\n";
-        cout << "Clase: ";
-        cin >> clase;
-
-
     
 
     return 0;
